@@ -4,8 +4,11 @@
 
 Team Members:
 Bichen Kou
+
 Wenjie Xie
+
 Yue Tian
+
 Jiaman Wu
 
 
