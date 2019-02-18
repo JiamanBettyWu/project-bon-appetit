@@ -14,4 +14,4 @@ Jiaman Wu
 
 
 1. [Project Proposal](https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/Proposal.ipynb)
-2. [exploratory analysis](https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/exploratory analysis.ipynb)
+2. [Exploratory Analysis](https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/exploratory analysis.ipynb)
