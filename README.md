@@ -20,6 +20,6 @@ In this project, we analyze restaurants in New York using data gathered from Yel
 1. [Project Proposal](https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/Proposal.ipynb)
 2. [Final Report] (https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/Report.pdf)
 3. Code:
-    - [All python code] (https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/Final%20Project%20for%20141B.ipynb)
-    - [R code for map] (https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/map.R) 
+    - [All python code](https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/Final%20Project%20for%20141B.ipynb)
+    - [R code for map](https://github.com/2019-winter-ucdavis-sta141b/project-bon-appetit/blob/master/map.R) 
     
